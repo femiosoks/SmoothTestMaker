@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\SmoothTestMaker(STM)\bin\Debug\SmoothTestMaker(STM).exe.config
+C:\Users\USER\source\repos\SmoothTestMaker(STM)\bin\Debug\SmoothTestMaker(STM).exe
+C:\Users\USER\source\repos\SmoothTestMaker(STM)\bin\Debug\SmoothTestMaker(STM).pdb
+C:\Users\USER\source\repos\SmoothTestMaker(STM)\obj\Debug\SmoothTestMaker(STM).csprojAssemblyReference.cache
+C:\Users\USER\source\repos\SmoothTestMaker(STM)\obj\Debug\SmoothTestMaker(STM).csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\SmoothTestMaker(STM)\obj\Debug\SmoothTestMaker(STM).exe
+C:\Users\USER\source\repos\SmoothTestMaker(STM)\obj\Debug\SmoothTestMaker(STM).pdb
+C:\Users\femio\Documents\Msc programme\SOFT40121Software Engineering\SE1 Assignment\SmoothTestMaker(STM)\SmoothTestMaker(STM)\bin\Debug\SmoothTestMaker(STM).exe.config
+C:\Users\femio\Documents\Msc programme\SOFT40121Software Engineering\SE1 Assignment\SmoothTestMaker(STM)\SmoothTestMaker(STM)\bin\Debug\SmoothTestMaker(STM).exe
+C:\Users\femio\Documents\Msc programme\SOFT40121Software Engineering\SE1 Assignment\SmoothTestMaker(STM)\SmoothTestMaker(STM)\bin\Debug\SmoothTestMaker(STM).pdb
+C:\Users\femio\Documents\Msc programme\SOFT40121Software Engineering\SE1 Assignment\SmoothTestMaker(STM)\SmoothTestMaker(STM)\obj\Debug\SmoothTestMaker(STM).csproj.AssemblyReference.cache
+C:\Users\femio\Documents\Msc programme\SOFT40121Software Engineering\SE1 Assignment\SmoothTestMaker(STM)\SmoothTestMaker(STM)\obj\Debug\SmoothTestMaker(STM).csproj.SuggestedBindingRedirects.cache
+C:\Users\femio\Documents\Msc programme\SOFT40121Software Engineering\SE1 Assignment\SmoothTestMaker(STM)\SmoothTestMaker(STM)\obj\Debug\SmoothTestMaker(STM).csproj.CoreCompileInputs.cache
+C:\Users\femio\Documents\Msc programme\SOFT40121Software Engineering\SE1 Assignment\SmoothTestMaker(STM)\SmoothTestMaker(STM)\obj\Debug\SmoothTestMaker(STM).exe
+C:\Users\femio\Documents\Msc programme\SOFT40121Software Engineering\SE1 Assignment\SmoothTestMaker(STM)\SmoothTestMaker(STM)\obj\Debug\SmoothTestMaker(STM).pdb

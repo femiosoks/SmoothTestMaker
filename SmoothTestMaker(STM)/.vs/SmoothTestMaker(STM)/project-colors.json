@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b2391366-1cb0-4f13-9a22-ae524f57c8b1": {
+      "ProjectGuid": "b2391366-1cb0-4f13-9a22-ae524f57c8b1",
+      "DisplayName": "SmoothTestMaker(STM)",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
